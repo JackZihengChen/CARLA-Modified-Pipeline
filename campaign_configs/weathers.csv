@@ -1,0 +1,7 @@
+cloudiness,precipitation,precipitation_deposits,sun_altitude_angle,sun_azimuth_angle,wetness,fog_density,wind_intensity
+20,0,0,70,0,0,0,10
+100,100,100,70,0,100,10,70
+20,0,0,5,0,0,0,10
+100,50,0,70,0,0,40,30
+100,50,0,5,0,0,40,30
+20,0,0,-5,0,0,0,10

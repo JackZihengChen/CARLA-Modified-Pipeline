@@ -1,0 +1,6 @@
+install conda
+install environment: conda env create -f environment.yml
+Fix env.sh
+Install cuda using conda: conda install cuda -c nvidia
+Install pytorch using conda: conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
+python3 campaign_driver.py --routes_list campaign_configs/routes_userdefined.csv --weathers_list campaign_configs/weathers.csv --output_dir campaign_results/
