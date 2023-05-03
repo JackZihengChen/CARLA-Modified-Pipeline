@@ -1,4 +1,0 @@
-route_path,weight_path,scenario_path
-routes_fi/route_highway.xml,epoch24.ckpt,fi_ghost_cutin.json
-routes_fi/route_highway.xml,epoch24.ckpt,fi_front_accidient.json
-routes_fi/route_highway.xml,epoch24.ckpt,fi_lead_slowdown.json
