@@ -1,0 +1,2 @@
+route_path,weight_path,scenario_path
+routes_fi/route_highway.xml,epoch24.ckpt,fi_front_accidient.json
