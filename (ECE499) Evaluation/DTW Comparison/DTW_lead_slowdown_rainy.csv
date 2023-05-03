@@ -1,0 +1,7 @@
+,x,y,v,cvip,steer,brake,throttle
+rain-sunset-0_lead_slowdown,0.01,0.72,0.67,0.32,0.01,1.0,0.41
+rain-sunset-20_lead_slowdown,0.06,3.66,0.98,13.75,0.02,0.5,0.89
+rain-sunset-40_lead_slowdown,0.02,1.23,1.46,2.63,0.02,1.58,1.49
+rain-sunset-60_lead_slowdown,0.03,1.4,1.97,2.68,0.05,1.5,1.27
+rain-sunset-80_lead_slowdown,0.02,1.39,3.38,3.45,0.03,1.22,1.53
+rain-sunset-100_lead_slowdown,0.12,1.51,1.8,9.14,0.03,1.5,1.48
