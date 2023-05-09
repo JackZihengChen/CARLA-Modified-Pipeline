@@ -1,0 +1,51 @@
+{
+    "_checkpoint": {
+        "global_record": {},
+        "progress": [
+            0,
+            1
+        ],
+        "records": [
+            {
+                "index": 0,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [
+                        "Agent collided against object with type=vehicle.tesla.model3 and id=6789 at (x=193.199, y=-13.292, z=-0.02)"
+                    ],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 11.150000166147947,
+                    "duration_system": 20.65566849708557,
+                    "route_length": 131.56012567009267
+                },
+                "route_id": "RouteScenario_0",
+                "scores": {
+                    "score_composed": 33.476809449730844,
+                    "score_penalty": 0.6,
+                    "score_route": 55.79468241621808
+                },
+                "status": "Failed"
+            }
+        ]
+    },
+    "eligible": false,
+    "entry_status": "Started",
+    "labels": [],
+    "sensors": [
+        "carla_camera",
+        "carla_camera",
+        "carla_camera",
+        "carla_imu",
+        "carla_gnss",
+        "carla_speedometer"
+    ],
+    "values": []
+}
