@@ -20,9 +20,11 @@ The thesis indicates that in adverse scenarios, the modifications to CARLA's sim
 - `./(ECE499) Evaluation` includes scripts for data processing.
 
 ### Modification Explanation
-- Ghost Cut-in Sequence ![Ghost Cut-in Sequence](./(ECE499)%20Deliverables/Ghost%20Cutin%20Sequence.png)
+#### Ghost Cut-in Sequence 
+![Ghost Cut-in Sequence](./(ECE499)%20Deliverables/Ghost%20Cutin%20Sequence.png)
 
-- Scenario modification sequence: ![Flowchart](./(ECE499)%20Deliverables/Flowchart.png)
+#### Scenario modification sequence
+![Flowchart](./(ECE499)%20Deliverables/Flowchart.png)
 
 A weather parameter is passed into the scenario so that the friction of a vehicle can be determined when spawned based on a known formula. 
 
